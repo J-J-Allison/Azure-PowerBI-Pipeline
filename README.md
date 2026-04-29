@@ -134,10 +134,3 @@ Azure-PowerBI-Pipeline/
 
 ---
 
-## 👥 Authors
-
-- ALLISON Jacques
-- MEGARD Alexandre
-- NADAT Sufyan
-
-*Université Paris 1 Panthéon-Sorbonne — 2026*
